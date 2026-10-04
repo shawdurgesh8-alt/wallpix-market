@@ -1,0 +1,6 @@
+{
+  "name": "Wallpix Market",
+  "description": "A premium digital wallpaper marketplace for creators to sell 4K & 8K wallpapers and users to discover, buy, and download.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
